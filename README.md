@@ -51,7 +51,3 @@ To run the project and generate the visualizations, follow these steps:
 
 - Data source: European Central Bank
 - Inspired by data storytelling projects and visualization techniques
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
